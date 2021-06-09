@@ -1,0 +1,7 @@
+#!/bin/bash
+
+cd app
+yarn remove tripetto-block-text
+yarn add tripetto-block-text
+
+yarn start

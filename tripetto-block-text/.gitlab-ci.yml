@@ -1,0 +1,22 @@
+image: node
+
+before_script:
+  - apt-get update
+  - apt-get install -y gettext
+  - node --version
+  - npm --version
+  - npm ci || npm install
+
+stages:
+  - pack
+
+package:
+  stage: pack
+  script:
+    - npm run make
+    - npm pack
+  except:
+    - tags
+  artifacts:
+    paths:
+      - "*.tgz"

@@ -1,0 +1,404 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: support@tripetto.com\n"
+"POT-Creation-Date: 2021-04-16 11:40+0200\n"
+"PO-Revision-Date: 2021-04-16 11:46+0200\n"
+"Last-Translator: Mark van den Brink <mark@vandenbr.ink>\n"
+"Language-Team: \n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "block:text"
+msgid "And"
+msgstr "En"
+
+msgctxt "block:text"
+msgid "Autocomplete"
+msgstr "Automatisch invullen"
+
+msgctxt "block:text"
+msgid "City (address level 2)"
+msgstr "Stad (adresniveau 2)"
+
+msgctxt "block:text"
+msgid "City, town, village, or other locality in which the address is located."
+msgstr "Stad, dorp of andere plaats waarin het adres ligt."
+
+msgctxt "block:text"
+msgid "Click the + button to add an suggestion..."
+msgstr "Klik op de + knop om een suggestie toe te voegen..."
+
+msgctxt "block:text"
+msgid "Company or organization name."
+msgstr "Bedrijfs- of organisatienaam."
+
+msgctxt "block:text"
+msgid "Compare mode"
+msgstr "Vergelijkingsmodus"
+
+msgctxt "block:text"
+msgid "Country"
+msgstr "Land"
+
+msgctxt "block:text"
+msgid "Full telephone number, including the country code."
+msgstr "Volledig telefoonnummer, inclusief de landcode."
+
+msgctxt "block:text"
+msgid "Gender identity"
+msgstr "Geslacht"
+
+msgctxt "block:text"
+msgid "Gender identity as freeform text."
+msgstr "Geslacht in vrije tekst."
+
+msgctxt "block:text"
+msgid ""
+"Generates a score based on the selected suggestion. Open the settings panel "
+"for each suggestion to set the score."
+msgstr ""
+"Hiermee genereert u een score op basis van de geselecteerde suggestie. Open "
+"het instellingenpaneel voor elke suggestie om de score in te stellen."
+
+msgctxt "block:text"
+msgid "If score equals"
+msgstr "Als score gelijk is aan"
+
+msgctxt "block:text"
+msgid "If score is between"
+msgstr "Als score ligt tussen"
+
+msgctxt "block:text"
+msgid "If score is higher than"
+msgstr "Als score hoger is dan"
+
+msgctxt "block:text"
+msgid "If score is lower than"
+msgstr "Als score lager is dan"
+
+msgctxt "block:text"
+msgid "If score is not between"
+msgstr "Als score niet ligt tussen"
+
+msgctxt "block:text"
+msgid "If score not equals"
+msgstr "Als score niet gelijk is aan"
+
+msgctxt "block:text"
+msgid "If text contains"
+msgstr "Als tekst bevat"
+
+msgctxt "block:text"
+msgid "If text does not contain"
+msgstr "Als tekst niet bevat"
+
+msgctxt "block:text"
+msgid "If text does not match"
+msgstr "Als tekst niet overeenkomt met"
+
+msgctxt "block:text"
+msgid "If text ends with"
+msgstr "Als tekst eindigt op"
+
+msgctxt "block:text"
+msgid "If text matches"
+msgstr "Als tekst overeenkomt met"
+
+msgctxt "block:text"
+msgid "If text starts with"
+msgstr "Als tekst begint met"
+
+msgctxt "block:text"
+msgid "Ignore case"
+msgstr "Negeer kapitalen"
+
+msgctxt "block:text"
+msgid "Job title, or the title a person has within an organization."
+msgstr ""
+"Functietitel, of de titel die een persoon heeft binnen een organisatie."
+
+msgctxt "block:text"
+msgid "Job/organization title"
+msgstr "Functietitel"
+
+msgctxt "block:text"
+msgid "Limits"
+msgstr "Grenswaarden"
+
+msgctxt "block:text"
+msgid "Location of the address within a city or town."
+msgstr "Locatie van het adres binnen een stad of dorp."
+
+msgctxt "block:text"
+msgid "Maximum"
+msgstr "Maximum"
+
+msgctxt "block:text"
+msgid "Minimum"
+msgstr "Minimum"
+
+msgctxt "block:text"
+msgid "Name"
+msgstr "Naam"
+
+msgctxt "block:text"
+msgid "Name of the country."
+msgstr "Naam van het land."
+
+msgctxt "block:text"
+msgid "Number"
+msgstr "Getal"
+
+msgctxt "block:text"
+msgid "Options"
+msgstr "Opties"
+
+msgctxt "block:text"
+msgid "Organization"
+msgstr "Organisatie"
+
+msgctxt "block:text"
+msgid "Person's full name."
+msgstr "De volledige naam van de persoon."
+
+msgctxt "block:text"
+msgid "Postal code"
+msgstr "Postcode"
+
+msgctxt "block:text"
+msgid "Postal code (in the United States, this is the ZIP code)."
+msgstr "Postcode (in de Verenigde Staten is dit de ZIP-code)."
+
+msgctxt "block:text"
+msgid "Prefill"
+msgstr "Vooraf invullen"
+
+msgctxt "block:text"
+msgid "Prefill with the following text:"
+msgstr "Vul vooraf in met de volgende tekst:"
+
+msgctxt "block:text"
+msgid "Province or state (address level 1)"
+msgstr "Provincie of staat (adresniveau 1)"
+
+msgctxt "block:text"
+msgid "Score"
+msgstr "Score"
+
+msgctxt "block:text"
+msgid "Score is between"
+msgstr "Score ligt tussen"
+
+msgctxt "block:text"
+msgid "Score is calculated"
+msgstr "Score is berekend"
+
+msgctxt "block:text"
+msgid "Score is equal to"
+msgstr "Score is gelijk aan"
+
+msgctxt "block:text"
+msgid "Score is higher than"
+msgstr "Score is hoger dan"
+
+msgctxt "block:text"
+msgid "Score is lower than"
+msgstr "Score is lager dan"
+
+msgctxt "block:text"
+msgid "Score is not between"
+msgstr "Score ligt niet tussen"
+
+msgctxt "block:text"
+msgid "Score is not calculated"
+msgstr "Score is niet berekend"
+
+msgctxt "block:text"
+msgid "Score is not equal to"
+msgstr "Score is niet gelijk aan"
+
+msgctxt "block:text"
+msgid "Street address"
+msgstr "Straatnaam"
+
+msgctxt "block:text"
+msgid "Suggestion"
+msgstr "Suggestie"
+
+msgctxt "block:text"
+msgid "Suggestions"
+msgstr "Suggesties"
+
+msgctxt "block:text"
+msgid "Telephone number"
+msgstr "Telefoonnummer"
+
+msgctxt "block:text"
+msgid "Text"
+msgstr "Tekst"
+
+msgctxt "block:text"
+msgid "Text (%1 suggestion)"
+msgid_plural "Text (%1 suggestions)"
+msgstr[0] "Tekst (%1 suggestie)"
+msgstr[1] "Tekst (%1 suggesties)"
+
+msgctxt "block:text"
+msgid "Text (single line)"
+msgstr "Tekst (enkele regel)"
+
+msgctxt "block:text"
+msgid "Text contains"
+msgstr "Tekst bevat"
+
+msgctxt "block:text"
+msgid "Text does not contain"
+msgstr "Tekst bevat niet"
+
+msgctxt "block:text"
+msgid "Text does not match"
+msgstr "Tekst komt niet overeen"
+
+msgctxt "block:text"
+msgid "Text ends with"
+msgstr "Tekst eindigt op"
+
+msgctxt "block:text"
+msgid "Text is empty"
+msgstr "Tekst is leeg"
+
+msgctxt "block:text"
+msgid "Text is not empty"
+msgstr "Tekst is niet leeg"
+
+msgctxt "block:text"
+msgid "Text match"
+msgstr "Textovereenkomst"
+
+msgctxt "block:text"
+msgid "Text matches"
+msgstr "Tekst komt overeen"
+
+msgctxt "block:text"
+msgid "Text starts with"
+msgstr "Tekst begint met"
+
+msgctxt "block:text"
+msgid ""
+"Typically the province in which the address is located. In the United "
+"States, this would be the state. In Switzerland, the canton. In the United "
+"Kingdom, the post town."
+msgstr ""
+"De provincie waarin het adres zich bevindt. In de Verenigde Staten zou dit "
+"de staat zijn. In Zwitserland, het kanton. In het Verenigd Koninkrijk, de "
+"stad."
+
+msgctxt "block:text"
+msgid "Unnamed suggestion"
+msgstr "Naamloze suggestie"
+
+msgctxt "block:text"
+msgid "Use fixed number"
+msgstr "Gebuik vast getal"
+
+msgctxt "block:text"
+msgid "Use fixed text"
+msgstr "Gebruik vaste tekst"
+
+msgctxt "block:text"
+msgid "Use the following autocomplete attribute for autocompletion:"
+msgstr "Gebruik het volgende kenmerk voor automatisch invullen:"
+
+msgctxt "block:text"
+msgid "Use value of"
+msgstr "Gebruik waarde van"
+
+msgctxt "block:text"
+msgid "Username"
+msgstr "Gebruikersnaam"
+
+msgctxt "block:text"
+msgid "Username or account name for the active domain."
+msgstr "Gebruikersnaam of accountnaam voor het actieve domein."
+
+msgctxt "block:text"
+msgid "Value"
+msgstr "Waarde"
+
+msgctxt "block:text"
+msgid "Verify score"
+msgstr "Controleer score"
+
+msgctxt "block:text"
+msgid "calculated"
+msgstr "berekend"
+
+msgctxt "block:text"
+msgid "contains"
+msgstr "bevat"
+
+msgctxt "block:text"
+msgid "does not contain"
+msgstr "bevat niet"
+
+msgctxt "block:text"
+msgid "empty"
+msgstr "leeg"
+
+msgctxt "block:text"
+msgid "ends with"
+msgstr "eindigt op"
+
+msgctxt "block:text"
+msgid "not calculated"
+msgstr "niet berekend"
+
+msgctxt "block:text"
+msgid "not empty"
+msgstr "niet leeg"
+
+msgctxt "block:text"
+msgid "or"
+msgstr "of"
+
+msgctxt "block:text"
+msgid "starts with"
+msgstr "begint met"
+
+#~ msgctxt "block:text"
+#~ msgid "Character count"
+#~ msgstr "Aantal tekens"
+
+#~ msgctxt "block:text"
+#~ msgid "Enter 0 to disable the minimum or maximum."
+#~ msgstr "Voer 0 in om het minimum of maximum uit te schakelen."
+
+#~ msgctxt "block:text"
+#~ msgid "Maximum number of characters"
+#~ msgstr "Maximale aantal tekens"
+
+#~ msgctxt "block:text"
+#~ msgid "Text is not specified"
+#~ msgstr "Tekst is niet ingevuld"
+
+#~ msgctxt "block:text"
+#~ msgid "Text is specified"
+#~ msgstr "Tekst is ingevuld"
+
+#~ msgctxt "block:text"
+#~ msgid "not specified"
+#~ msgstr "niet ingevuld"
+
+#~ msgctxt "block:text"
+#~ msgid "specified"
+#~ msgstr "ingevuld"

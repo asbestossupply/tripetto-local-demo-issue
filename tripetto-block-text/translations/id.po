@@ -1,0 +1,377 @@
+# Tripetto Text Block
+# Copyright (C) 2021 Tripetto B.V.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: tripetto-block-text 4.2.0\n"
+"Report-Msgid-Bugs-To: support@tripetto.com\n"
+"POT-Creation-Date: 2021-04-16 11:40+0200\n"
+"PO-Revision-Date: 2021-04-16 11:40+0200\n"
+"Last-Translator: Mark van den Brink <mark@vandenbr.ink>\n"
+"Language-Team: \n"
+"Language: id\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.4.2\n"
+
+msgctxt "block:text"
+msgid "And"
+msgstr "Dan"
+
+msgctxt "block:text"
+msgid "Autocomplete"
+msgstr "Autocomplete"
+
+msgctxt "block:text"
+msgid "City (address level 2)"
+msgstr "Kota (daerah tingkat 2)"
+
+msgctxt "block:text"
+msgid "City, town, village, or other locality in which the address is located."
+msgstr "Kota, kesamatan, desa, atau daerah lain di mana alamat berada."
+
+msgctxt "block:text"
+msgid "Click the + button to add an suggestion..."
+msgstr "Klik tombol + untuk menambahkan saran..."
+
+msgctxt "block:text"
+msgid "Company or organization name."
+msgstr "Nama perusahaan atau organisasi."
+
+msgctxt "block:text"
+msgid "Compare mode"
+msgstr "Mode perbandingan"
+
+msgctxt "block:text"
+msgid "Country"
+msgstr "Negara"
+
+msgctxt "block:text"
+msgid "Full telephone number, including the country code."
+msgstr "Nomor telepon lengkap, termasuk kode negara."
+
+msgctxt "block:text"
+msgid "Gender identity"
+msgstr "Identitas gender"
+
+msgctxt "block:text"
+msgid "Gender identity as freeform text."
+msgstr "Identitas gender sebagai teks bentuk bebas."
+
+msgctxt "block:text"
+msgid ""
+"Generates a score based on the selected suggestion. Open the settings panel "
+"for each suggestion to set the score."
+msgstr ""
+"Menghasilkan skor berdasarkan saran yang dipilih. Buka panel pengaturan "
+"untuk setiap pilihan untuk mengatur skor."
+
+msgctxt "block:text"
+msgid "If score equals"
+msgstr "Jika nilai sama dengan"
+
+msgctxt "block:text"
+msgid "If score is between"
+msgstr "Jika nilai di antara"
+
+msgctxt "block:text"
+msgid "If score is higher than"
+msgstr "Jika nilai lebih besar dari"
+
+msgctxt "block:text"
+msgid "If score is lower than"
+msgstr "Jika nilai lebih kecil dari"
+
+msgctxt "block:text"
+msgid "If score is not between"
+msgstr "Jika nilai tidak di antara"
+
+msgctxt "block:text"
+msgid "If score not equals"
+msgstr "Jika nilai tidak sama dengan"
+
+msgctxt "block:text"
+msgid "If text contains"
+msgstr "Jika teks mengandung"
+
+msgctxt "block:text"
+msgid "If text does not contain"
+msgstr "Jika teks tidak mengandung"
+
+msgctxt "block:text"
+msgid "If text does not match"
+msgstr "Jika teks tidak sesuai"
+
+msgctxt "block:text"
+msgid "If text ends with"
+msgstr "Jika teks berakhir dengan"
+
+msgctxt "block:text"
+msgid "If text matches"
+msgstr "Jika teks sesuai"
+
+msgctxt "block:text"
+msgid "If text starts with"
+msgstr "Jika teks dimulai dengan"
+
+msgctxt "block:text"
+msgid "Ignore case"
+msgstr "Abaikan kasus"
+
+msgctxt "block:text"
+msgid "Job title, or the title a person has within an organization."
+msgstr ""
+"Titel pekerjaan, atau gelar yang dimiliki seseorang dalam suatu organisasi."
+
+msgctxt "block:text"
+msgid "Job/organization title"
+msgstr "Pekerjaan/nama organisasi"
+
+msgctxt "block:text"
+msgid "Limits"
+msgstr "Batas"
+
+msgctxt "block:text"
+msgid "Location of the address within a city or town."
+msgstr "Lokasi alamat di dalam kota atau kecamatan."
+
+msgctxt "block:text"
+msgid "Maximum"
+msgstr "Maksimum"
+
+msgctxt "block:text"
+msgid "Minimum"
+msgstr "Minimum"
+
+msgctxt "block:text"
+msgid "Name"
+msgstr "Nama"
+
+msgctxt "block:text"
+msgid "Name of the country."
+msgstr "Nama negara."
+
+msgctxt "block:text"
+msgid "Number"
+msgstr "Angka"
+
+msgctxt "block:text"
+msgid "Options"
+msgstr "Pilihan"
+
+msgctxt "block:text"
+msgid "Organization"
+msgstr "Organisasi"
+
+msgctxt "block:text"
+msgid "Person's full name."
+msgstr "Nama lengkap."
+
+msgctxt "block:text"
+msgid "Postal code"
+msgstr "Kode pos"
+
+msgctxt "block:text"
+msgid "Postal code (in the United States, this is the ZIP code)."
+msgstr "Kode pos (di Amerika Serikat, ini adalah kode pos)."
+
+msgctxt "block:text"
+msgid "Prefill"
+msgstr "Diisi sebelumnya"
+
+msgctxt "block:text"
+msgid "Prefill with the following text:"
+msgstr "Diisi sebelumnya dengan teks berikut:"
+
+msgctxt "block:text"
+msgid "Province or state (address level 1)"
+msgstr "Provinsi atau negara bagian (daerah tingkat 1)"
+
+msgctxt "block:text"
+msgid "Score"
+msgstr "Skor"
+
+msgctxt "block:text"
+msgid "Score is between"
+msgstr "Nilai di antara"
+
+msgctxt "block:text"
+msgid "Score is calculated"
+msgstr "Nilai sedang dihitung"
+
+msgctxt "block:text"
+msgid "Score is equal to"
+msgstr "Nilai sama dengan"
+
+msgctxt "block:text"
+msgid "Score is higher than"
+msgstr "Nilai lebih besar dari"
+
+msgctxt "block:text"
+msgid "Score is lower than"
+msgstr "Niai lebih kecil dari"
+
+msgctxt "block:text"
+msgid "Score is not between"
+msgstr "Nilai tidak di antara"
+
+msgctxt "block:text"
+msgid "Score is not calculated"
+msgstr "Nilai tidak dihitung"
+
+msgctxt "block:text"
+msgid "Score is not equal to"
+msgstr "Nilai tidak sama dengan"
+
+msgctxt "block:text"
+msgid "Street address"
+msgstr "Alamat jalan"
+
+msgctxt "block:text"
+msgid "Suggestion"
+msgstr "Saran"
+
+msgctxt "block:text"
+msgid "Suggestions"
+msgstr "Saran"
+
+msgctxt "block:text"
+msgid "Telephone number"
+msgstr "Nomor telepon"
+
+msgctxt "block:text"
+msgid "Text"
+msgstr "Teks"
+
+msgctxt "block:text"
+msgid "Text (%1 suggestion)"
+msgid_plural "Text (%1 suggestions)"
+msgstr[0] "Teks (%1 saran)"
+
+msgctxt "block:text"
+msgid "Text (single line)"
+msgstr "Teks (baris tunggal)"
+
+msgctxt "block:text"
+msgid "Text contains"
+msgstr "Teks mengandung"
+
+msgctxt "block:text"
+msgid "Text does not contain"
+msgstr "Teks tidak mengandung"
+
+msgctxt "block:text"
+msgid "Text does not match"
+msgstr "Teks tidak sesuai"
+
+msgctxt "block:text"
+msgid "Text ends with"
+msgstr "Teks berakhir dengan"
+
+msgctxt "block:text"
+msgid "Text is empty"
+msgstr "Teks kosong"
+
+msgctxt "block:text"
+msgid "Text is not empty"
+msgstr "Teks tidak kosong"
+
+msgctxt "block:text"
+msgid "Text match"
+msgstr "Teks sesuai"
+
+msgctxt "block:text"
+msgid "Text matches"
+msgstr "Teks sesuai"
+
+msgctxt "block:text"
+msgid "Text starts with"
+msgstr "Teks dimulai dengan"
+
+msgctxt "block:text"
+msgid ""
+"Typically the province in which the address is located. In the United "
+"States, this would be the state. In Switzerland, the canton. In the United "
+"Kingdom, the post town."
+msgstr ""
+"Biasanya provinsi tempat alamat tersebut berada. Di Amerika Serikat, ini "
+"akan menjadi negara bagian. Di Swiss, canton. Di Inggris Raya, post town."
+
+msgctxt "block:text"
+msgid "Unnamed suggestion"
+msgstr "Saran tidak bernama"
+
+msgctxt "block:text"
+msgid "Use fixed number"
+msgstr "Gunakan bilangan tetap"
+
+msgctxt "block:text"
+msgid "Use fixed text"
+msgstr "Gunakan teks tetap"
+
+msgctxt "block:text"
+msgid "Use the following autocomplete attribute for autocompletion:"
+msgstr ""
+"Gunakan atribut pelengkapan otomatis berikut untuk pelengkapan otomatis:"
+
+msgctxt "block:text"
+msgid "Use value of"
+msgstr "Gunakan nilai dari"
+
+msgctxt "block:text"
+msgid "Username"
+msgstr "Nama pengguna"
+
+msgctxt "block:text"
+msgid "Username or account name for the active domain."
+msgstr "Nama pengguna atau nama akun untuk domain aktif."
+
+msgctxt "block:text"
+msgid "Value"
+msgstr "Nilai"
+
+msgctxt "block:text"
+msgid "Verify score"
+msgstr "Verifikasi perhitungan"
+
+msgctxt "block:text"
+msgid "calculated"
+msgstr "terhitung"
+
+msgctxt "block:text"
+msgid "contains"
+msgstr "mengandung"
+
+msgctxt "block:text"
+msgid "does not contain"
+msgstr "tidak mengandung"
+
+msgctxt "block:text"
+msgid "empty"
+msgstr "kosong"
+
+msgctxt "block:text"
+msgid "ends with"
+msgstr "berakhir dengan"
+
+msgctxt "block:text"
+msgid "not calculated"
+msgstr "tidak dihitung"
+
+msgctxt "block:text"
+msgid "not empty"
+msgstr "tidak kosong"
+
+msgctxt "block:text"
+msgid "or"
+msgstr "atau"
+
+msgctxt "block:text"
+msgid "starts with"
+msgstr "dimulai dengan"
+
+#~ msgctxt "block:text"
+#~ msgid "Character count"
+#~ msgstr "Hitung karakter"

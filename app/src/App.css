@@ -1,0 +1,62 @@
+body {
+  overflow: hidden;
+}
+
+.error-message {
+  width: 50vw;
+  z-index: 999;
+  position: absolute;
+  margin: 200px 0 0 25%;
+}
+
+.header-title {
+  margin-left: 23px;
+  color: rgba(0, 0, 0, 0.85);
+  font-weight: 500;
+  font-size: 26px;
+}
+
+.error-text {
+  color: red;
+  margin-left: 20px;
+}
+
+#builder {
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  z-index: 1;
+  transform: translateX(-100%);
+  transition: transform 0.25s ease-out;
+  line-height: normal;
+}
+
+#builder.visible {
+  transform: translateX(0);
+}
+
+#runner {
+  background-color: white;
+  position: fixed;
+  left: 0;
+  top: 0px;
+  bottom: 0;
+  right: 0;
+  z-index: 0;
+}
+
+@media (min-width: 992px) {
+  #builder {
+    /* right: 35%; */
+    /* left: 170px; */
+    transform: translateX(0);
+  }
+
+}
+
+.side-nav {
+  width: 170px;
+  margin-top: 64px;
+}

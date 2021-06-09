@@ -1,0 +1,9 @@
+*
+!/builder/**/*.js
+!/builder/**/*.d.ts
+!/builder/esm/*.mjs
+!/runner/**/*.js
+!/runner/**/*.d.ts
+!/runner/esm/*.mjs
+!/translations/*.json
+!/translations/*.pot
