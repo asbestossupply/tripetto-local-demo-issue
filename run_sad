@@ -2,12 +2,12 @@
 
 cd tripetto-block-text
 npm install
-npm run make
+npm pack
 
 cd ..
 
 cd app
 yarn remove tripetto-block-text
-yarn add file:../tripetto-block-text
+yarn add file:../tripetto-block-text/tripetto-block-text-5.0.0.tgz
 
 yarn start
